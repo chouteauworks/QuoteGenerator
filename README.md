@@ -18,11 +18,11 @@ $ Once in the website, click on "New Quote"
 Make Sure the Generator Is Working 
 
 Generator should do the following: 
-Each click should show new quote. 
+Each click should show new quote
 
 Check to make sure Generator  works properly
 
 $ Click mouse multiple times to make sure it works
-$ Check browser can go to website
+$ Check that your browser can go to the local site
 
-Thank you for check out my ✨Quote Generator✨
+Thank you for checking out my ✨Quote Generator✨

@@ -15,12 +15,12 @@ $ Take mouse and click on VS Code
 $ Open index.html in any browser
 $ Once in the website, click on "New Quote"
 
-Make Sure the ✨Generator✨ Is Working 
+Make Sure the Generator Is Working 
 
-✨Generator✨ should do the following: 
+Generator should do the following: 
 Each click should show new quote. 
 
-Check to make sure ✨Generator✨  works properly
+Check to make sure Generator  works properly
 
 $ Click mouse multiple times to make sure it works
 $ Check browser can go to website
